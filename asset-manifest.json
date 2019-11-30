@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/madhangog/foodcart/static/css/main.89c21ff1.chunk.css",
+    "main.js": "/madhangog/foodcart/static/js/main.2020ba4d.chunk.js",
+    "main.js.map": "/madhangog/foodcart/static/js/main.2020ba4d.chunk.js.map",
+    "runtime~main.js": "/madhangog/foodcart/static/js/runtime~main.247498f4.js",
+    "runtime~main.js.map": "/madhangog/foodcart/static/js/runtime~main.247498f4.js.map",
+    "static/css/2.86aa6515.chunk.css": "/madhangog/foodcart/static/css/2.86aa6515.chunk.css",
+    "static/js/2.c680354c.chunk.js": "/madhangog/foodcart/static/js/2.c680354c.chunk.js",
+    "static/js/2.c680354c.chunk.js.map": "/madhangog/foodcart/static/js/2.c680354c.chunk.js.map",
+    "index.html": "/madhangog/foodcart/index.html",
+    "precache-manifest.68372f8b1dfcab47c261cc19b9410f33.js": "/madhangog/foodcart/precache-manifest.68372f8b1dfcab47c261cc19b9410f33.js",
+    "service-worker.js": "/madhangog/foodcart/service-worker.js",
+    "static/css/2.86aa6515.chunk.css.map": "/madhangog/foodcart/static/css/2.86aa6515.chunk.css.map",
+    "static/css/main.89c21ff1.chunk.css.map": "/madhangog/foodcart/static/css/main.89c21ff1.chunk.css.map",
+    "static/media/images (1).jpeg": "/madhangog/foodcart/static/media/images (1).54b20fba.jpeg",
+    "static/media/images.jpeg": "/madhangog/foodcart/static/media/images.4c541f4e.jpeg",
+    "static/media/noodles.jpg": "/madhangog/foodcart/static/media/noodles.3fd7965b.jpg"
+  }
+}
